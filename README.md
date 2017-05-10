@@ -1,1 +1,1 @@
-# lax-html-mic
+# lax-html-mac
